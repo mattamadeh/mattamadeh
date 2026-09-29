@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm matin 👋</h1>
+<h3 align="center">Computer Engineering Student | Passionate about DevOps & Software Design</h3>
 
-<!--
-**mattamadeh/mattamadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Computer Engineering Student
+- 💻 Proficient in **Python**, **C/C++**, **JavaScript**
+- 🌐 Interested in Web Design & Software Development
+- ⚙️ Currently learning **DevOps** and **Docker/Kubernetes**
+- 📫 Reach me at: amadeh871@gmail.com
+
+---
+
+### 🛠️ Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,react,nodejs,docker,git,linux,mysql" />
+</p>
+
+---
+
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+### 🌐 Social Media
+<p align="center">
+  <a href="t.me/metinamade"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="Amadeh871@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
