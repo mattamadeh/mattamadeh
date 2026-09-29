@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm matin 👋</h1>
 <h3 align="center">Computer Engineering Student | Passionate about DevOps & Software Design</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -23,13 +19,6 @@
 
 ---
 
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&row=1&column=6" />
-</p>
-
----
 
 ### 🌐 Social Media
 <p align="center">
